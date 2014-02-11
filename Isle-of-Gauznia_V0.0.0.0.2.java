@@ -3,10 +3,8 @@ import java.util.Scanner;
 public class main
 {
 	private static Scanner input;
-
 	public static void main(String[] args)
 	{
-
 		int health, armor, attack, def, str, magic, ranged; // Currently unused
 
 		String playerName; 
