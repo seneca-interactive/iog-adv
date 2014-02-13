@@ -1,11 +1,11 @@
-// Isle-of-Gauznia_V0.0.0.5
+// Isle-of-Gauznia_V0.0.0.6
 import java.util.Scanner;
 
 public class main
 {
 	private static Scanner input;
 	public static void main(String[] args)
-	{
+	{		
 		int health, armor, attack, def, str, magic, ranged; // Currently unused
 
 		String playerName;
@@ -65,9 +65,6 @@ public class main
 		// Enemy Combatants
 		// (Same array syntax as player classes)
 		int[] rat_stats = { 4,1,1,1,1,1,0 };	
-		int[] bat_stats = { 2,1,1,1,1,1,0 };
-
-		System.out.println( assassin_starter_stats[5]);
-		
+		int[] bat_stats = { 2,1,1,1,1,1,0 };		
 	}
 }
