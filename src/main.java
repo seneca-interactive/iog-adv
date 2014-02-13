@@ -61,6 +61,12 @@ public class main
 		int[] assassin_starter_stats = { 13,2,6,2,3,1,2 };
 		int[] necromancer_starter_stats = { 8,1,3,2,2,7,0 }; // Default class stats
 		int[] ranger_starter_stats = { 12,3,4,3,3,0,6 };
+
+		// Init Player Stats
+		int[] player_stats = { 0,0,0,0,0,0,0 };
+
+		// Init Enemy Stats
+		int[] combat_enemy_stats = { 0,0,0,0,0,0,0 };
 		
 		// Enemy Combatants
 		// (Same array syntax as player classes)
