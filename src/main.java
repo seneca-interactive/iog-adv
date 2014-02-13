@@ -66,5 +66,11 @@ public class main
 		// (Same array syntax as player classes)
 		int[] rat_stats = { 4,1,1,1,1,1,0 };	
 		int[] bat_stats = { 2,1,1,1,1,1,0 };		
+
+		combat fight;
+		fight = new combat();
+		
+		fight.round();
+
 	}
 }
