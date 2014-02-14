@@ -25,7 +25,9 @@ public class weapons
 	int[] steel_dagger = { 2,3,3,2,11 };
 	int[] steel_tanto = { 2,4,3,3,11 };
 	int[] steel_shortsword = { 2,6,4,3,8 };
+	int[] steel_gladius = { 2,6,4,4,9 };
 	int[] steel_scimitar = { 2,6,5,5,9 };
 	int[] steel_longsword = { 2,6,6,4,10 };
+	int[] steel_staff = { 3,4,7,2,9 };
 
 }
