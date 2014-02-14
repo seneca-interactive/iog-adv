@@ -15,6 +15,18 @@ jre7.
 
   # pacman -S jre7-openjdk
 
+  Debian/Ubuntu
+
+  # apt-get install openjdk-7-jre
+
+  Gentoo
+
+  # emerge -av oracle-jre-bin
+
+  Redhat/Fedora
+
+  # yum install java-1.7.0-openjdk
+
 Windows
 
 Navigate to the official java website and download the correct
