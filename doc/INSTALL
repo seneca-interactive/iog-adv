@@ -1,0 +1,26 @@
+Isles of Gauznia
+Installation Guide
+
+The first (and only) step to ensuring Isles of Gauznia will run
+on your machine is to install java.
+
+
+
+Linux
+
+Install java runtime environment (jre). Recommended version is
+jre7.
+
+  Arch Linux
+
+  # pacman -S jre7-openjdk
+
+Windows
+
+Navigate to the official java website and download the correct
+installer for your architecture, depending on if your machine
+is 32 or 64-bit. Run through the installer until it tells you
+that you have successfully installed java
+
+jre is the only requirement of Isles of Gauznia and no further setup
+is needed.

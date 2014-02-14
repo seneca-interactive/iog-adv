@@ -1,0 +1,114 @@
+Isles of Gauznia
+
+proposed ideas / planned features (public)
+
+=========================================
+
+  Mark supported ideas by * and un-
+  supported ideas by / within the
+  specified field ([ ]).
+
+  If a mark already resides in the
+  field, simply add a second mark
+  in the field
+
+  If you have no opinion, leave the
+  field blank.
+
+  // Each developer may only mark
+  // one * or / per item.
+
+  Mark items you have already gone
+  to lengths to implement by ~.
+
+=========================================
+
+  // Core Game
+  // the rest of the game will be developed around
+  // these basic assumptions. Therefore, these are
+  // the most immediately important to establish,
+  // even if they are not immediately implemented
+
+[*] Attributes
+  [*] Luck Attribute
+[ ] Mana (non-regenerating)
+[ ] Mana (regenerating)
+[ ] Mana (regenerating) with consumable items used for powerful spells
+[ ] No Mana and consumable items used for all spells
+[*] Stamina
+  [*] Endurance (gives very small bonuses to all physical attributes and
+                increases stamina)
+
+
+
+[ ] Leveling system (overall level)
+[*] Leveling system (individual levels)
+[ ] Leveling system (individual levels and calculated overall level by
+    skills)
+[ ] Leveling system (individual levels and calculated overall level by
+    attributes)
+
+
+
+  // Market
+
+[ ] Dynamic + Changing Economy
+[*] Static Shop Item Prices - balanced by developers
+
+[ ] Extremely cheap player sell prices always
+[ ] Extremely cheap player sell prices except on rare items
+[ ] Extremely cheap player sell prices except with trained skill
+  [ ] Salesman/Mercantile skill
+  [ ] Integrated into other 'charismatic,' skill used for more than
+      vendoring items
+[ ] Some shops have limited rare items (random spawn)
+[ ] Some shops have limited rare items (static)
+[ ] No shops have rare items
+[ ] Some shops have limited 'good' items (random spawn)
+[ ] Some shops have limited 'good' items (static)
+[/] No shops have 'good' items
+[/] No shops have 'above-average' items
+
+
+
+  // Gear + Gear-stats
+
+[~] All defensive gear has def and armor stats
+  [ ] Def and Armor stats calculated from equipped armor
+[~] All weapons have min + max and modifiers for att, str, and crit
+[/] All weapons have only min + max
+[ ] All weapons and armor weigh you down by a certain minor amount,
+    thus decreasing stamina regen or making stamina not as powerful
+    as raw level value. This value changes depending on the item.
+
+
+  // Spellcasting
+
+[ ] Int attribute (increases mana slightly, greatly increases chance
+    of learning spells, greatly decreases fail chance for spells)
+[*] Wis attribute (increases mana very slightly, increases chance of
+    learning spells, slightly decreases fail chance for spells,
+    slightly increases crit chance for spells, very slightly increases
+    damage of spells
+[*] Will attribute (very very slightly increases chance of learning
+    spells, very very slightly decreases incoming damage from all
+    spells which are crits, very very very slightly decreases damage
+    taken from all spells, increases chance to resist spellsi, very
+    very very slightly increases mana)
+[*] Sens (Sensitivity) attribute (slightly increases mana, increases crit
+    chance for all spells, very very slightly increases cast cost for
+    all spells (does not come anywhere close to offsetting gain in
+    mana, very slightly increases enemy spells' likelyhood to crit)
+[ ] Bal (Balance) attribute (very slightly decreases chance for enemy
+    spells to be crits, very very slightly increases your chance to
+    crit, very very very slightly increases crit chance of all spells,
+    VERY slightly increases your chance of completely absorbing an 
+    incoming spell on a tier level of a known spell [+0.005% chance
+    per 3 points], VERY slightly decreases spell cost for all spells
+    one tier above the highest tier with which you have one spell
+    within 'confident' casting level (70% chance of success or more)
+
+
+
+-- Feel free to add more fields, simply mark the beginning of the new
+field box with () - so for instance ()[ ]Blah here
