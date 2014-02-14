@@ -1,4 +1,4 @@
-// Isle-of-Gauznia_V0.0.0.6
+// Isle-of-Gauznia_V0.0.0.7
 import java.util.Scanner;
 
 public class main
@@ -14,11 +14,11 @@ public class main
 		String necromancer_title = "necromancer";
 		String ranger_title = "ranger";
 		
-		input = new Scanner(System.in);
+		input = new Scanner(System.in); // Allows user input
 		
 		System.out.println("Greetings, and welcome to Isle of Gauznia!\n");
 		System.out.println("What is your name, adventurer? ");
-		playerName = input.nextLine(); // Records the user's name.
+		playerName = input.nextLine(); // Records the user's name. (nextLine specifically is for strings)
 		
 		System.out.println("Welcome, " + playerName + "!\n");
 		System.out.println("Please select a class: ");
@@ -35,6 +35,7 @@ public class main
 		if(playerClass.equals("a"))
 		{
 			playerClass = assassin_title;
+			// Assign other values (unqiue class atrributes here)
 		}
 		else if(playerClass.equals("n"))
 		{
