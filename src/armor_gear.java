@@ -39,4 +39,53 @@ public class armor_gear
 	int[] iron_shield_circle = { 7,7 };
 	int[] iron_shield_tower = { 8,9 };
 
+	// cloth gear
+	int[] black_cloth_robe = { 1,0 };
+	int[] black_cloth_robe_oriental = { 1,0 };
+	int[] black_cloth_robe_oriental_ench = { 1,3 };
+	int[] white_cloth_robe = { 1,0 };
+	int[] white_cloth_robe_oriental = { 1,0 };
+	int[] white_cloth_robe_oriental_ench = { 1,3 };
+	int[] green_cloth_robe = { 1,0 };
+	int[] green_cloth_robe_oriental = { 1,0 };
+	int[] green_cloth_robe_oriental_ench = { 1,3 };
+	int[] grey_cloth_robe = { 1,0 };
+	int[] grey_cloth_robe_oriental = { 1,0 };
+	int[] grey_cloth_robe_oriental_ench = { 1,3 };
+	int[] tan_cloth_robe = { 1,0 };
+	int[] tan_cloth_robe_oriental = { 1,0 };
+	int[] tan_cloth_robe_oriental_ench = { 1,3 };
+	int[] white-black_cloth_robe = { 1,0 };
+	int[] white-black_cloth_robe_oriental = { 1,0 };
+	int[] white-black_cloth_robe_oriental_ench = { 1,3 };
+	int[] gold_cloth_robe = { 1,0 };
+	int[] gold_cloth_robe_oriental = { 1,0 };
+	int[] gold_cloth_robe_oriental_ench = { 1,3 };
+
+	int[] white_silk_robe_oriental = { 2,0 };
+	int[] white_silk_robe_oriental_ench = { 2,3 };
+	int[] black_silk_robe_oriental = { 2,0 };
+	int[] black_silk_robe_oriental_ench = { 2,3 };
+	int[] green_silk_robe_oriental = { 2,0 };
+	int[] green_silk_robe_oriental_ench = { 2,3 };
+	int[] purple_silk_robe_oriental = { 2,0 };
+	int[] purple_silk_robe_oriental_ench = { 2,3 };
+
+	int[] straw_sandals = { 1,0 };
+	int[] cloth_wristbands = { 1,0 };
+	int[] white_cloth_handwrappings = { 1,0 };
+	int[] black_cloth_handwrappings = { 1,0 };
+	int[] grey_cloth_handwrappings = { 1,0 };
+	int[] white_cloth_shinwrappings = { 1,0 };
+	int[] black_cloth_shinwrappings = { 1,0 };
+	int[] grey_cloth_shinwrappings = { 1,0 };
+	int[] white_cloth_cape = { 0,0 };
+	int[] black_cloth_cape = { 0,0 };
+	int[] gold_cloth_cape = { 0,0 };
+	int[] purple_cloth_cape = { 0,0 };
+	int[] white_silk_cape = { 1,0 };
+	int[] black_silk_cape = { 1,0 };
+	int[] green_silk_cape = { 1,0 };
+	int[] purple_silk_cape = { 1,0 };
+
 }
