@@ -38,6 +38,22 @@ public class armor_gear
 	int[] iron_buckler = { 6,6 };
 	int[] iron_shield_circle = { 7,7 };
 	int[] iron_shield_tower = { 8,9 };
+	
+	// steel armor -- V.
+	int[] steel_gauntlets = { 4,3 }; //V.
+	int[] steel_bracers = { 3,2 }; //V.
+	int[] steel_chainmail = { 8,3 }; //V.
+	int[] steel_cuirass = { 13,7 }; //V.
+	int[] steel_helmet_small = { 5,4 }; //V.
+	int[] steel_helmet_full = { 6,5 }; //V.
+	int[] steel_boots = { 6,3 }; //V.
+	int[] steel_pauldron_left = { 5,3 }; // shield arm pauldron -- V.
+	int[] steel_pauldron_right = { 5,3 }; // shield arm pauldron -- V.
+	int[] steel_pauldron_right_sm = { 3,3 }; // small pauldron -- V.
+	int[] steel_greaves = { 8,5 }; //V.
+	int[] steel_buckler = { 8,7 }; //V.
+	int[] steel_shield_circle = { 9,8 }; //V.
+	int[] steel_shield_tower = { 10,12 }; //V.
 
 	// cloth gear
 	int[] black_cloth_robe = { 1,0 };
