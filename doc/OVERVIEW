@@ -33,9 +33,13 @@ proposed ideas / planned features (public)
   [*] Luck Attribute
 [ ] Mana (non-regenerating)
 [ *] Mana (regenerating)
-()[*] Mana-restore potions in-game
-[ /] Mana (regenerating) with consumable items used for powerful spells
-[ /] No Mana and consumable items used for all spells
+[**] Mana-restore potions in-game
+[*/] Mana (regenerating) with consumable items used for powerful spells
+  ()[*]Consumable items only used for 'legendary,' spells which would
+       near-impossible to cast more than once or twice a playthrough
+       (like masterball function in pokemon, but KO) Requires good
+       spellcasting skills.
+[//] No Mana and consumable items used for all spells
 [**] Stamina
   [*] Endurance (gives very small bonuses to all physical attributes and
                 increases stamina)
@@ -48,7 +52,7 @@ proposed ideas / planned features (public)
     skills)
 [ ] Leveling system (individual levels and calculated overall level by
     attributes)
-()[*] Overall level system (Formed by calculation of all other levels. To put into perspective think RS total
+[**] Overall level system (Formed by calculation of all other levels. To put into perspective think RS total
 skill level mixed with combat level)
 
 
@@ -58,17 +62,17 @@ skill level mixed with combat level)
 [ ] Dynamic + Changing Economy
 [*] Static Shop Item Prices - balanced by developers
 
-[ *] Extremely cheap player sell prices always // Less emphasis on "extreme" but should be quite low.
+[**] Cheap player sell prices always 
 [ ] Extremely cheap player sell prices except on rare items
 [ ] Extremely cheap player sell prices except with trained skill
   [ /] Salesman/Mercantile skill
   [ ] Integrated into other 'charismatic,' skill used for more than
       vendoring items
-[ *] Some shops have limited rare items (random spawn) 
-[ /] Some shops have limited rare items (static)
+[**] Some shops have limited rare items (random spawn) 
+[//] Some shops have limited rare items (static)
 [ ] No shops have rare items
-[ *] Some shops have limited 'good' items (random spawn)
-[ /] Some shops have limited 'good' items (static)
+[**] Some shops have limited 'good' items (random spawn)
+[//] Some shops have limited 'good' items (static)
 [//] No shops have 'good' items
 [//] No shops have 'above-average' items
 
@@ -79,8 +83,8 @@ skill level mixed with combat level)
 [~] All defensive gear has def and armor stats
   [ *] Def and Armor stats calculated from equipped armor //In addition to attributes
 [~] All weapons have min + max and modifiers for att, str, and crit
-[/] All weapons have only min + max
-[/] All weapons and armor weigh you down by a certain minor amount,
+[//] All weapons have only min + max
+[//] All weapons and armor weigh you down by a certain minor amount,
     thus decreasing stamina regen or making stamina not as powerful
     as raw level value. This value changes depending on the item.
  // If we did this, we would have to do it for all items, and it overall would be annoying and not add much worth imo.
@@ -113,60 +117,65 @@ skill level mixed with combat level)
 
  // Class specifics
  
-()[/] Strictly general weapons / armors (no specifics)
-()[*] General weapons / armors + specifics
-()[*] Class specific armor
-()[*] Class specific weapon(s)
-()[*] Specific attack types
+[/] Strictly general weapons / armors (no specifics)
+[*] General weapons / armors + specifics
+[* ] Class specific armor
+	// Maybe some, but one set. - c
+[* ] Class specific weapon(s)
+	// Maybe a handfull of rare ones. -c
+[* ] Specific attack types
+	// Okay, I never thought of this one. -c
 
  // Fight options
-()[] Freeze enemy (Disable all attack(s) for X turn(s))
-()[*] Stun enemy (Disable meele attack(s) for X turn(s))
-()[*] Burn (Continous damage over turns)
-()[*] Poision (Contious damage over turns)
-()[] Disorientate (Lowers enemy chance of hitting for X turn(s))
-()[] Fear (Potentially causes enemy to leave the fight) 
+[*] Freeze enemy (Disable all attack(s) for X turn(s))
+[*] Stun enemy (Disable meele attack(s) for X turn(s))
+[*] Burn (Continous damage over turns)
+[*] Poision (Contious damage over turns)
+[*] Disorientate (Lowers enemy chance of hitting for X turn(s))
+	// Rename blind and adjust to percentage
+	// (yes, I'm ripping Morrowind but it sounds more badass)
+[/] Fear (Potentially causes enemy to leave the fight) 
 
  // Item rarity levels
-()[/] Trash
-()[/] Terrible
-()[/] Poor
-()[*] Common
-()[*] Un-common
-()[*] Rare
-()[*] Ultra-rare
-()[*] Legendary
+[/] Trash
+[/] Terrible
+[/] Poor
+[*] Common
+[*] Un-common
+[*] Rare
+[*] Ultra-rare
+[*] Legendary
 
  // Graphics
-()[*] Text only
-()[*] Text + ASCII art
-()[] Stonesoup looking
-()[/] Flash-style game (text only)
-()[/] Flash-style game (GUI)
-()[/] 3D Graphics
+[**] Text only
+[* ] Text + ASCII art
+[/] Stonesoup looking
+[//] Flash-style game (text only)
+[//] Flash-style game (GUI)
+[//] 3D Graphics
 
  // Save options
-()[] No save functions
-()[] Checkpoints only (Reached upon an event)
-()[] Checkpoints only (Given every X amount of moves or time)
-()[] Checkpoints (Reached upon an event) in addition to..
-()[] Checkpoints (Given every X amount of moves or time) in addition to..
-()[] Current save only
-()[] Current save (Over-writing with checkpoints)
-()[] Multiple saves
+[/] No save functions
+[/] Checkpoints only (Reached upon an event)
+[/] Checkpoints only (Given every X amount of moves or time)
+[/] Checkpoints (Reached upon an event) in addition to..
+[*] Checkpoints (Given every X amount of moves or time) in addition to..
+[ ] Current save only
+[ ] Current save (Over-writing with checkpoints)
+[*] Multiple saves
 
  // Records
-()[] None
-()[] /played
-()[] Turn count
-()[] Deaths
-()[] Gsmes played
+[/] None
+[*] /played
+[*] Turn count
+[ ] Deaths
+[*] Games played
 
  // Leaderboard options
-()[] None
-()[] Highest total stats
-()[] Highest amount of turns
-()[] Longest game-time
+[/] None
+[*] Highest total stats
+[/] Highest amount of turns
+[*] Longest game-time
 
 -- Feel free to add more fields, simply mark the beginning of the new
 field box with () - so for instance ()[ ]Blah here
