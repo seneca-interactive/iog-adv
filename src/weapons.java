@@ -13,17 +13,17 @@ public class weapons
 	// bronze weapons
 	int[] bronze_dirk = { 1,2,1,1,6 };
 	int[] bronze_dagger = { 1,2,2,1,7 };
-	int[] bronze_shortsword = { 2,4,3,2,5 };
+	int[] bronze_shortsword = { 1,4,3,2,5 };
 	int[] bronze_scimitar = { 1,5,3,3,3 };
 	int[] bronze_longsword = { 2,5,3,3,3 };
-	int[] bronze_hatchet = { 3,4,2,4,2 };
-	int[] bronze_waraxe = { 2,5,2,4,3 };
-	int[] bronze_battleaxe = { 2,7,2,5,4 };
+	int[] bronze_hatchet = { 1,4,2,4,2 };
+	int[] bronze_waraxe = { 1,5,2,4,3 };
+	int[] bronze_battleaxe = { 1,7,2,5,4 };
 
 	// iron weapons
 	int[] iron_dirk = { 1,3,2,1,7 };
 	int[] iron_dagger = { 1,3,2,1,9 };
-	int[] iron_shortsword = {}; //V. {2,4,3,3,7}?
+	int[] iron_shortsword = {}; //V. {2,4,3,3,7}? //c - In retrospect I don't want anything under steel having a min that isn't 1.
 	int[] iron_longsword = {}; //V. {2,5,2,4,9}?
 	int[] iron_greatsword = {}; //V. {4,8,2,6,12} - Cannot weild shield
 	int[] iron_tanto = { 1,4,2,2,9 };
@@ -38,7 +38,9 @@ public class weapons
 	int[] steel_scimitar = { 2,6,5,5,9 };
 	int[] steel_longsword = { 2,6,6,4,10 };
 	int[] steel_staff = { 3,4,7,2,9 };
-	int[] steel_greatsword {}; //V. {5,10,2,8,16}
+	int[] steel_greatsword = {}; //V. {5,10,2,8,16}
+	int[] steel_katana = { 2,10,8,8,11 };
+	
 	
 	// Ranged weapons
 	// min(0), max(1), hit_chance(2), str(3), crit(4), magic damage(5)
