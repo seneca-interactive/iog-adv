@@ -50,9 +50,17 @@ public class weapons
 	int[] sturdy_wooden_bow = {2,5,8,3,8}; //V.
 	int[] maple_short_bow = {}; //V.
 	int[] maple_long_bow = {}; //V.
+	int[] magic_short_bow = {}; //V.
 	int[] enchanted_fire_bow = {6,9,6,6,14,4}; //V.
 	
 	// Wands
+	int[] novice_wand = {1,2,8,0,4,1};
+	int[] beginners_wand = {};
+	int[] apprentices_wand = {};
+	int[] journeymans_wand = {};
+	// add more
+	int[] masters_wand = {};
+	// add more?
 	
 	// Enchanted meele weapons
 	
