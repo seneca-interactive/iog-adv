@@ -23,8 +23,8 @@ public class weapons
 	// iron weapons
 	int[] iron_dirk = { 1,3,2,1,7 };
 	int[] iron_dagger = { 1,3,2,1,9 };
-	int[] iron_shortsword = {}; //V. {2,4,3,3,7}? //c - In retrospect I don't want anything under steel having a min that isn't 1.
-	int[] iron_longsword = {}; //V. {2,5,2,4,9}?
+	int[] iron_shortsword = {}; //V. {1,4,3,3,7}? //c - In retrospect I don't want anything under steel having a min that isn't 1.
+	int[] iron_longsword = {}; //V. {1,5,2,4,9}?
 	int[] iron_greatsword = {}; //V. {4,8,2,6,12} - Cannot weild shield
 	int[] iron_tanto = { 1,4,2,2,9 };
 	int[] iron_katana = { 2,8,7,7,9 };
