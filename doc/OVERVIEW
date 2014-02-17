@@ -137,14 +137,14 @@ skill level mixed with combat level)
 [/] Fear (Potentially causes enemy to leave the fight) 
 
  // Item rarity levels
-[/] Trash
-[/] Terrible
-[/] Poor
-[*] Common
-[*] Un-common
-[*] Rare
-[*] Ultra-rare
-[*] Legendary
+[//] Trash
+[//] Terrible
+[//] Poor
+[**] Common
+[**] Un-common
+[**] Rare
+[**] Ultra-rare
+[**] Legendary
 
  // Graphics
 [**] Text only
