@@ -104,4 +104,13 @@ public class armor_gear
 	int[] green_silk_cape = { 1,0 };
 	int[] purple_silk_cape = { 1,0 };
 
+	// rare gear (rare as in categorized as such, not necessarily
+	// actual rarity, IE: some of the cloth colors above will be
+	// just as rare)
+
+	int[] senseis_robe = { 2,2 };
+	int[] robe_of_the_dragon = { 0,4 };
+	int[] robe_of_black_omen = { 2,3 };
+	int[] robe_of_recklessness = { 0,5 };
+
 }
