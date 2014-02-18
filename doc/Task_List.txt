@@ -1,0 +1,11 @@
+Simply a to-do list for things that need to be done.
+
+
+List of tasks needing to be done:
+
+- Create a combat system
+- Test combat system against multiple enemies
+- Create travel system
+- Add basic items for every category (IE: Tomes, wands, etc.. All ready for entry-level players)
+- Create a longer lists of tasks
+
