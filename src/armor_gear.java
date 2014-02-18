@@ -103,6 +103,17 @@ public class armor_gear
 	int[] black_silk_cape = { 1,0 };
 	int[] green_silk_cape = { 1,0 };
 	int[] purple_silk_cape = { 1,0 };
+	
+	// Tomes (Necromancer off-hand)
+	// Stats = ?????
+	// We could have each tome give different abilities even.. IE: Some just give stat boosts but others
+	// Could give access to a new attack option while wielding such as "Summon wild imp"
+	// That could instantly do 4 damage to your enemy and run away
+	// With X% chance of summoning / control failure and the creature attacking you instead for Y damage.
+	int[] tome_of_the_apprentice = {}; // Basic stat boost
+	int[] tome_of_summon_wild_imp = {}; // See above idea
+	int[] tome_of_summon_imp = {}; // Could stay and do damage several fight rounds, like fire damage?
+	int[] book_of_Savragta = {}; 
 
 	// rare gear (rare as in categorized as such, not necessarily
 	// actual rarity, IE: some of the cloth colors above will be
