@@ -65,6 +65,5 @@ public class weapons
 	// add more?
 	
 	// Enchanted meele weapons
-	
-	// Tombs (IE: Necromancer spell books used as an off-hand)
+
 }
